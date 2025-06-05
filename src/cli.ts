@@ -4,7 +4,6 @@ import { Command } from "commander";
 import { splitSecret } from "./shamir/split";
 import { reconstructSecret } from "./shamir/reconstruct";
 import * as fs from "node:fs";
-
 const program = new Command();
 
 program
