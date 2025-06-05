@@ -138,3 +138,5 @@ dist
 *.iml
 out
 gen
+
+shares.json
